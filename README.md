@@ -1,4 +1,4 @@
-###作业三 
+### 作业三 
 光栅化
 <img width="700" height="700" alt="output" src="https://github.com/user-attachments/assets/6666e3a3-113f-4245-98d2-c2720c4f4f42" />
 
