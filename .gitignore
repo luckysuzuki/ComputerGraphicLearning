@@ -1,0 +1,24 @@
+# Build output
+**/build/
+**/build-*/
+**/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+*.o
+*.a
+*.lib
+*.exe
+*.dll
+*.pdb
+
+# IDE and local assistant settings
+.idea/
+.vscode/
+.claude/
+
+# Operating system files
+.DS_Store
+Thumbs.db
